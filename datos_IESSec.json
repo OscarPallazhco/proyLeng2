@@ -1,0 +1,3818 @@
+{
+    "tweets": [
+        {
+            "created_at": "Sun Aug 11 07:50:44 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160458514390757382",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Sat Aug 22 15:47:00 +0000 2015",
+                "profile_text_color": "333333",
+                "favourites_count": 4567,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 3435548949,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "followers_count": 59,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "disfob1965",
+                "listed_count": 1,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 180,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/807018726897827841/3s-BOVyh_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "fernando osorio",
+                "statuses_count": 7171,
+                "location": "Ecuador",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "3435548949",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/807018726897827841/3s-BOVyh_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": true,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 219,
+            "retweeted": false,
+            "id": 1160458514390757382,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @DefensaIESS: Contin\u00faa la #Corrupci\u00f3n #Extorsi\u00f3n en el @IESSec Janeth Parra amante de @LuisJairalaZ y Elizabeth Acuria Directora Adminis\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Aug 09 03:37:34 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Sat Oct 24 05:53:21 +0000 2009",
+                    "profile_text_color": "050005",
+                    "translator_type": "none",
+                    "url": "https://t.co/jDSmLMU67D",
+                    "contributors_enabled": false,
+                    "profile_background_color": "080001",
+                    "profile_sidebar_fill_color": "F7F728",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": false,
+                    "id": 84778025,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 59274,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "iess.gob.ec",
+                                    "expanded_url": "http://iess.gob.ec",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/jDSmLMU67D"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "DefensaIESS",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/84778025/1548482349",
+                    "listed_count": 133,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 633,
+                    "description": "",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1089039334412636160/x93av30t_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "FFB100",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 87,
+                    "geo_enabled": false,
+                    "name": "Defensa IESS",
+                    "statuses_count": 236096,
+                    "location": "Guayaquil - Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "F7051D",
+                    "id_str": "84778025",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089039334412636160/x93av30t_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 219,
+                "retweeted": false,
+                "id": 1159670026410057728,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "Contin\u00faa la #Corrupci\u00f3n #Extorsi\u00f3n en el @IESSec Janeth Parra amante de @LuisJairalaZ y Elizabeth Acuria Directora\u2026 https://t.co/YKP4urn8nU",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                41,
+                                48
+                            ]
+                        },
+                        {
+                            "screen_name": "LuisJairalaZ",
+                            "id": 4919587209,
+                            "name": "Luis Jairala Zunino",
+                            "id_str": "4919587209",
+                            "indices": [
+                                72,
+                                85
+                            ]
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "text": "Corrupci\u00f3n",
+                            "indices": [
+                                12,
+                                23
+                            ]
+                        },
+                        {
+                            "text": "Extorsi\u00f3n",
+                            "indices": [
+                                24,
+                                34
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1159670026410057728",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/YKP4urn8nU"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 145,
+                "place": null,
+                "id_str": "1159670026410057728",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "DefensaIESS",
+                        "id": 84778025,
+                        "name": "Defensa IESS",
+                        "id_str": "84778025",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            58,
+                            65
+                        ]
+                    },
+                    {
+                        "screen_name": "LuisJairalaZ",
+                        "id": 4919587209,
+                        "name": "Luis Jairala Zunino",
+                        "id_str": "4919587209",
+                        "indices": [
+                            89,
+                            102
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "text": "Corrupci\u00f3n",
+                        "indices": [
+                            29,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "Extorsi\u00f3n",
+                        "indices": [
+                            41,
+                            51
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 07:38:02 +0000 2019",
+            "in_reply_to_status_id": 1160214075068080130,
+            "contributors": null,
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Wed Feb 02 22:51:48 +0000 2011",
+                "profile_text_color": "333333",
+                "translator_type": "none",
+                "url": "https://t.co/ornZVGb6KT",
+                "contributors_enabled": false,
+                "profile_background_color": "FF6699",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": false,
+                "id": 246514594,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "followers_count": 502,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "descargatelocorp.com",
+                                "expanded_url": "http://www.descargatelocorp.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/ornZVGb6KT"
+                            }
+                        ]
+                    }
+                },
+                "screen_name": "Fujeen",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/246514594/1545567987",
+                "listed_count": 79,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 689,
+                "description": "Real Madrid CF \ud83c\udfc6#13 UCL F\u00fatbol, Cine, M\u00fasica, Amigo sincero, Respeto las ideas de los dem\u00e1s! Tratar de ser justo en la vida y conocer todo mi pa\u00eds Ecuador \ud83c\uddea\ud83c\udde8",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1137234150686101506/1cTedLLS_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "3B94D9",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "favourites_count": 2226,
+                "geo_enabled": true,
+                "name": "@scar \uf8ff",
+                "statuses_count": 89225,
+                "location": "Machala, Ecuador",
+                "protected": false,
+                "profile_sidebar_border_color": "FFFFFF",
+                "id_str": "246514594",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137234150686101506/1cTedLLS_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": true,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": 58535652,
+            "text": "@ComunicacionEc @Salud_Ec @EduSuperiorEc @FinanzasEc @IESSec @Lenin Si ponen a escoger a un jubilado entre efectivo\u2026 https://t.co/RM2GVNz3Ie",
+            "retweeted": false,
+            "id": 1160455318465372160,
+            "in_reply_to_status_id_str": "1160214075068080130",
+            "lang": "es",
+            "favorited": false,
+            "in_reply_to_user_id_str": "58535652",
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "truncated": true,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "ComunicacionEc",
+                        "id": 58535652,
+                        "name": "Comunicaci\u00f3n Ecuador",
+                        "id_str": "58535652",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "Salud_Ec",
+                        "id": 222231985,
+                        "name": "Salud Ecuador",
+                        "id_str": "222231985",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "EduSuperiorEc",
+                        "id": 268485186,
+                        "name": "Educaci\u00f3n Superior",
+                        "id_str": "268485186",
+                        "indices": [
+                            26,
+                            40
+                        ]
+                    },
+                    {
+                        "screen_name": "FinanzasEc",
+                        "id": 271933511,
+                        "name": "Econom\u00eda Finanzas Ec",
+                        "id_str": "271933511",
+                        "indices": [
+                            41,
+                            52
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            53,
+                            60
+                        ]
+                    },
+                    {
+                        "screen_name": "Lenin",
+                        "id": 913131817,
+                        "name": "Len\u00edn Moreno",
+                        "id_str": "913131817",
+                        "indices": [
+                            61,
+                            67
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1160455318465372160",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/RM2GVNz3Ie"
+                    }
+                ]
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "id_str": "1160455318465372160",
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "retweet_count": 0,
+            "in_reply_to_screen_name": "ComunicacionEc"
+        },
+        {
+            "created_at": "Sun Aug 11 07:36:11 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "possibly_sensitive": false,
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Thu Aug 23 02:40:29 +0000 2018",
+                "profile_text_color": "333333",
+                "translator_type": "none",
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1032457518625239040,
+                "profile_background_image_url": null,
+                "followers_count": 737,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "Anticuantico",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032457518625239040/1535432118",
+                "listed_count": 2,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 1459,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1032473389355724802/HOTeYMne_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "favourites_count": 5424,
+                "geo_enabled": false,
+                "name": "Alfarista Ecuador",
+                "statuses_count": 36451,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1032457518625239040",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032473389355724802/HOTeYMne_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "quoted_status": {
+                "created_at": "Sun Aug 11 07:07:00 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Thu Dec 31 09:33:16 +0000 2009",
+                    "profile_text_color": "FFFFFF",
+                    "translator_type": "none",
+                    "url": "http://t.co/NvQkmzIWCT",
+                    "contributors_enabled": false,
+                    "profile_background_color": "005E15",
+                    "profile_sidebar_fill_color": "042107",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": true,
+                    "default_profile": false,
+                    "id": 100731315,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 3054690,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "actualidad.rt.com",
+                                    "expanded_url": "http://actualidad.rt.com/",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/NvQkmzIWCT"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "ActualidadRT",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/100731315/1552993338",
+                    "listed_count": 12046,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 78,
+                    "description": "El primer canal de TV ruso en espa\u00f1ol con alcance mundial. Les brindamos las noticias que realmente importan. Lo m\u00e1s relevante del panorama internacional, en RT",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/979275073038225408/LNizh4B9_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "5CBA1D",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 154,
+                    "geo_enabled": true,
+                    "name": "RT en Espa\u00f1ol",
+                    "statuses_count": 560636,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "id_str": "100731315",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/979275073038225408/LNizh4B9_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 68,
+                "retweeted": false,
+                "id": 1160447506158936064,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "Una pareja de jubilados se quita la vida en EE.UU. por no poder cubrir sus gastos m\u00e9dicos\nhttps://t.co/u0qiJjtYw3",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "es.rt.com/6xre",
+                            "expanded_url": "https://es.rt.com/6xre",
+                            "indices": [
+                                90,
+                                113
+                            ],
+                            "url": "https://t.co/u0qiJjtYw3"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 48,
+                "place": null,
+                "id_str": "1160447506158936064",
+                "is_quote_status": false,
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "truncated": false,
+                "in_reply_to_screen_name": null
+            },
+            "retweet_count": 0,
+            "retweeted": false,
+            "id": 1160454849894502400,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "geo": null,
+            "text": "Atenci\u00f3n!\nVisita del @FMInoticias el 12Agosto a su nueva colonia Ecuador!\n\u00bfser\u00e1 que este pueblo  manipulado e infec\u2026 https://t.co/ytgp6M9xh5",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "truncated": true,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "FMInoticias",
+                        "id": 1395199711,
+                        "name": "FMI",
+                        "id_str": "1395199711",
+                        "indices": [
+                            21,
+                            33
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1160454849894502400",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/ytgp6M9xh5"
+                    }
+                ]
+            },
+            "favorited": false,
+            "favorite_count": 0,
+            "place": null,
+            "quoted_status_id_str": "1160447506158936064",
+            "id_str": "1160454849894502400",
+            "is_quote_status": true,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "quoted_status_id": 1160447506158936064,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 07:01:39 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160446162714996736",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Sat Aug 12 01:55:13 +0000 2017",
+                "profile_text_color": "333333",
+                "favourites_count": 1378,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 896188290562502656,
+                "profile_background_image_url": null,
+                "followers_count": 22,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "MarielitaCeBa",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 67,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/948662397174247424/v9PX4vo1_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "Mariela Cede\u00f1o",
+                "statuses_count": 1845,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "896188290562502656",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/948662397174247424/v9PX4vo1_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 219,
+            "retweeted": false,
+            "id": 1160446162714996736,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @DefensaIESS: Contin\u00faa la #Corrupci\u00f3n #Extorsi\u00f3n en el @IESSec Janeth Parra amante de @LuisJairalaZ y Elizabeth Acuria Directora Adminis\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Aug 09 03:37:34 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Sat Oct 24 05:53:21 +0000 2009",
+                    "profile_text_color": "050005",
+                    "translator_type": "none",
+                    "url": "https://t.co/jDSmLMU67D",
+                    "contributors_enabled": false,
+                    "profile_background_color": "080001",
+                    "profile_sidebar_fill_color": "F7F728",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": false,
+                    "id": 84778025,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 59274,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "iess.gob.ec",
+                                    "expanded_url": "http://iess.gob.ec",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/jDSmLMU67D"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "DefensaIESS",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/84778025/1548482349",
+                    "listed_count": 133,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 633,
+                    "description": "",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1089039334412636160/x93av30t_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "FFB100",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 87,
+                    "geo_enabled": false,
+                    "name": "Defensa IESS",
+                    "statuses_count": 236096,
+                    "location": "Guayaquil - Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "F7051D",
+                    "id_str": "84778025",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089039334412636160/x93av30t_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 219,
+                "retweeted": false,
+                "id": 1159670026410057728,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "Contin\u00faa la #Corrupci\u00f3n #Extorsi\u00f3n en el @IESSec Janeth Parra amante de @LuisJairalaZ y Elizabeth Acuria Directora\u2026 https://t.co/YKP4urn8nU",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                41,
+                                48
+                            ]
+                        },
+                        {
+                            "screen_name": "LuisJairalaZ",
+                            "id": 4919587209,
+                            "name": "Luis Jairala Zunino",
+                            "id_str": "4919587209",
+                            "indices": [
+                                72,
+                                85
+                            ]
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "text": "Corrupci\u00f3n",
+                            "indices": [
+                                12,
+                                23
+                            ]
+                        },
+                        {
+                            "text": "Extorsi\u00f3n",
+                            "indices": [
+                                24,
+                                34
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1159670026410057728",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/YKP4urn8nU"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 145,
+                "place": null,
+                "id_str": "1159670026410057728",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "DefensaIESS",
+                        "id": 84778025,
+                        "name": "Defensa IESS",
+                        "id_str": "84778025",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            58,
+                            65
+                        ]
+                    },
+                    {
+                        "screen_name": "LuisJairalaZ",
+                        "id": 4919587209,
+                        "name": "Luis Jairala Zunino",
+                        "id_str": "4919587209",
+                        "indices": [
+                            89,
+                            102
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "text": "Corrupci\u00f3n",
+                        "indices": [
+                            29,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "Extorsi\u00f3n",
+                        "indices": [
+                            41,
+                            51
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:42:38 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160441377362251777",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Feb 23 05:28:47 +0000 2018",
+                "profile_text_color": "333333",
+                "favourites_count": 14,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 966907669574332417,
+                "profile_background_image_url": null,
+                "followers_count": 2,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "ECatyT1",
+                "listed_count": 0,
+                "default_profile_image": true,
+                "is_translator": false,
+                "friends_count": 152,
+                "description": "",
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "@ECatyT",
+                "statuses_count": 147,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "966907669574332417",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": true,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 32,
+            "retweeted": false,
+            "id": 1160441377362251777,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @IESSec: #IESSAfiliaci\u00f3nExterior | Ecuatorianos residentes en el exterior mayores de 18 a\u00f1os, pueden afiliarse voluntariamente al IESS.\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Sat Aug 10 17:00:00 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Tue Apr 17 15:50:42 +0000 2012",
+                    "profile_text_color": "000000",
+                    "translator_type": "none",
+                    "url": "https://t.co/Ek5H0hvX0N",
+                    "contributors_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "utc_offset": null,
+                    "profile_use_background_image": false,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": false,
+                    "id": 556152909,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 179640,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "iess.gob.ec",
+                                    "expanded_url": "http://www.iess.gob.ec",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/Ek5H0hvX0N"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "IESSec",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/556152909/1560792273",
+                    "listed_count": 183,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 645,
+                    "description": "Cuenta oficial del Instituto Ecuatoriano de Seguridad Social. Presidente del Consejo Directivo @PaulGranda",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1087397706514006016/c5hrhUwr_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1B95E0",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 10102,
+                    "geo_enabled": true,
+                    "name": "IESS",
+                    "statuses_count": 32639,
+                    "location": "Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "000000",
+                    "id_str": "556152909",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087397706514006016/c5hrhUwr_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 32,
+                "retweeted": false,
+                "id": 1160234351654666241,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "#IESSAfiliaci\u00f3nExterior | Ecuatorianos residentes en el exterior mayores de 18 a\u00f1os, pueden afiliarse voluntariamen\u2026 https://t.co/TpRJ0yGUvK",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [],
+                    "hashtags": [
+                        {
+                            "text": "IESSAfiliaci\u00f3nExterior",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1160234351654666241",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/TpRJ0yGUvK"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 23,
+                "place": null,
+                "id_str": "1160234351654666241",
+                "is_quote_status": false,
+                "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "text": "IESSAfiliaci\u00f3nExterior",
+                        "indices": [
+                            12,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:30:40 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160438364128141312",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Wed Jan 30 01:05:37 +0000 2013",
+                "profile_text_color": "333333",
+                "favourites_count": 22,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1132553652,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "followers_count": 10,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "paomb86",
+                "listed_count": 0,
+                "default_profile_image": true,
+                "is_translator": false,
+                "friends_count": 1,
+                "description": "",
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "Pao Montenegro B.",
+                "statuses_count": 22,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1132553652",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 88,
+            "retweeted": false,
+            "id": 1160438364128141312,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @IESSec: Hoy, rendimos homenaje a la valent\u00eda y determinaci\u00f3n de aquellos pr\u00f3ceres que sembraron los valores de libertad e igualdad en n\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Sat Aug 10 13:00:00 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Tue Apr 17 15:50:42 +0000 2012",
+                    "profile_text_color": "000000",
+                    "translator_type": "none",
+                    "url": "https://t.co/Ek5H0hvX0N",
+                    "contributors_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "utc_offset": null,
+                    "profile_use_background_image": false,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": false,
+                    "id": 556152909,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 179640,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "iess.gob.ec",
+                                    "expanded_url": "http://www.iess.gob.ec",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/Ek5H0hvX0N"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "IESSec",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/556152909/1560792273",
+                    "listed_count": 183,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 645,
+                    "description": "Cuenta oficial del Instituto Ecuatoriano de Seguridad Social. Presidente del Consejo Directivo @PaulGranda",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1087397706514006016/c5hrhUwr_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1B95E0",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 10102,
+                    "geo_enabled": true,
+                    "name": "IESS",
+                    "statuses_count": 32639,
+                    "location": "Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "000000",
+                    "id_str": "556152909",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087397706514006016/c5hrhUwr_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 88,
+                "retweeted": false,
+                "id": 1160173955623211008,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "Hoy, rendimos homenaje a la valent\u00eda y determinaci\u00f3n de aquellos pr\u00f3ceres que sembraron los valores de libertad e i\u2026 https://t.co/8AoYlyb80u",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1160173955623211008",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/8AoYlyb80u"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 68,
+                "place": null,
+                "id_str": "1160173955623211008",
+                "is_quote_status": false,
+                "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:19:14 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160435488127410176",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 42,
+            "retweeted": false,
+            "id": 1160435488127410176,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @ZoeMedrano7: @economista33 @IESSec Vamos a apoyar al Dr Alex Vivas m\u00e9dico del HTMC. Porque es inaudito que se persiga y atente contra l\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 03:41:10 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Tue Oct 16 12:18:43 +0000 2018",
+                    "profile_text_color": "000000",
+                    "translator_type": "none",
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "utc_offset": null,
+                    "profile_use_background_image": false,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": false,
+                    "id": 1052171982140264448,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 428,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "ZoeMedrano7",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052171982140264448/1565285537",
+                    "listed_count": 1,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 248,
+                    "description": "La fe rompe las barreras de lo imposible. Amo la Vida, la Naturaleza, los animales y mi familia. \ud83c\uddea\ud83c\udde8\ud83c\uddea\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \ud83c\uddfa\ud83c\uddfe\ud83d\ude3a\ud83d\udc27\ud83d\udc3b\ud83e\udd9d  \u0632\u0648\u064a \u0645\u064a\u062f\u0631\u0627\u0646\u0648",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1139521308788764672/wJVP7OU2_normal.png",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "981CEB",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 11808,
+                    "geo_enabled": false,
+                    "name": "Zoe M. \u0632\u0648\u064a",
+                    "statuses_count": 23639,
+                    "location": "Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "000000",
+                    "id_str": "1052171982140264448",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139521308788764672/wJVP7OU2_normal.png",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": true,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": 198723699,
+                "text": "@economista33 @IESSec Vamos a apoyar al Dr Alex Vivas m\u00e9dico del HTMC. Porque es inaudito que se persiga y atente c\u2026 https://t.co/sOthEafawF",
+                "retweeted": false,
+                "id": 1146987355858964480,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "favorited": false,
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "truncated": true,
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1146987355858964480",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/sOthEafawF"
+                        }
+                    ]
+                },
+                "geo": null,
+                "favorite_count": 55,
+                "place": null,
+                "id_str": "1146987355858964480",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "retweet_count": 42,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "ZoeMedrano7",
+                        "id": 1052171982140264448,
+                        "name": "Zoe M. \u0632\u0648\u064a",
+                        "id_str": "1052171982140264448",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            17,
+                            30
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            31,
+                            38
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:18:54 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160435403712864256",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 36,
+            "retweeted": false,
+            "id": 1160435403712864256,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @GuayasCna: @economista33 @IESSec No permitiremos que se atente contra la vida de las personas que denuncian la corrupci\u00f3n! Nuestra soli\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 03:57:26 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Thu Mar 14 20:35:53 +0000 2019",
+                    "profile_text_color": "333333",
+                    "translator_type": "none",
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 1106292891075383297,
+                    "profile_background_image_url": null,
+                    "followers_count": 340,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "GuayasCna",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106292891075383297/1552596290",
+                    "listed_count": 0,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 159,
+                    "description": "Comisi\u00f3n Nacional ANTICORRUPCI\u00d3N \u00d3rgano de la sociedad civil por mandato del Colectivo Nacional de Trabajadores, Ind\u00edgenas y Organizaciones Sociales del Ecuador",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106306749361983497/WBAqu0yi_normal.png",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": null,
+                    "favourites_count": 461,
+                    "geo_enabled": false,
+                    "name": "Anticorrupci\u00f3n Guayas",
+                    "statuses_count": 420,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "1106292891075383297",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106306749361983497/WBAqu0yi_normal.png",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": 198723699,
+                "text": "@economista33 @IESSec No permitiremos que se atente contra la vida de las personas que denuncian la corrupci\u00f3n! Nue\u2026 https://t.co/dMLubFMVUn",
+                "retweeted": false,
+                "id": 1146991449390637056,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "favorited": false,
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "truncated": true,
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1146991449390637056",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/dMLubFMVUn"
+                        }
+                    ]
+                },
+                "geo": null,
+                "favorite_count": 37,
+                "place": null,
+                "id_str": "1146991449390637056",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "retweet_count": 36,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "GuayasCna",
+                        "id": 1106292891075383297,
+                        "name": "Anticorrupci\u00f3n Guayas",
+                        "id_str": "1106292891075383297",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            15,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            29,
+                            36
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:18:14 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160435236569845760",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 18,
+            "retweeted": false,
+            "id": 1160435236569845760,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @galobonifaz: @economista33 @IESSec Esas son las consecuencias irresponsables de Moreno en haber entregado a una familia que todos conoc\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 23:53:35 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Sat Oct 24 04:22:34 +0000 2015",
+                    "profile_text_color": "333333",
+                    "favourites_count": 12910,
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 4029010581,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 1602,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "galobonifaz",
+                    "listed_count": 4,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 4999,
+                    "description": "Cat\u00f3lico, dem\u00f3crata, ex dirigente  Universitario, ex director PSP3 Guayas, deportista.",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/938256712976470016/urEbztX7_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "translator_type": "none",
+                    "geo_enabled": true,
+                    "name": "Galo Bonifaz",
+                    "statuses_count": 14339,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "4029010581",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/938256712976470016/urEbztX7_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": 198723699,
+                "text": "@economista33 @IESSec Esas son las consecuencias irresponsables de Moreno en haber entregado a una familia que todo\u2026 https://t.co/69krFKIrOb",
+                "retweeted": false,
+                "id": 1147292472076374016,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "favorited": false,
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "truncated": true,
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1147292472076374016",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/69krFKIrOb"
+                        }
+                    ]
+                },
+                "geo": null,
+                "favorite_count": 30,
+                "place": null,
+                "id_str": "1147292472076374016",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "retweet_count": 18,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "galobonifaz",
+                        "id": 4029010581,
+                        "name": "Galo Bonifaz",
+                        "id_str": "4029010581",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            17,
+                            30
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            31,
+                            38
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:17:34 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160435068738920449",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 24,
+            "retweeted": false,
+            "id": 1160435068738920449,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @Sadott23: @economista33 @IESSec \"La desesperaci\u00f3n infunde temor a los cobardes, al ver que pisan sus talones\".\u00a0\nSabemos c\u00f3mo operan est\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 03:42:56 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Sun May 22 18:20:09 +0000 2016",
+                    "profile_text_color": "333333",
+                    "translator_type": "none",
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 734448780674760704,
+                    "profile_background_image_url": null,
+                    "followers_count": 617,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "Sadott23",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/734448780674760704/1528809544",
+                    "listed_count": 3,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 275,
+                    "description": "I run on caffeine, sarcasm and inappropriate thoughts. Funciono con cafeina, sarcasmo y pensamientos inapropiados. Al otro lado del miedo esta la libertad!",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1150040992956997632/I1J5MBSq_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": null,
+                    "favourites_count": 21688,
+                    "geo_enabled": true,
+                    "name": "Sadotte",
+                    "statuses_count": 24760,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "734448780674760704",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150040992956997632/I1J5MBSq_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": true,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": 198723699,
+                "text": "@economista33 @IESSec \"La desesperaci\u00f3n infunde temor a los cobardes, al ver que pisan sus talones\".\u00a0\nSabemos c\u00f3mo\u2026 https://t.co/LFqOjavuCv",
+                "retweeted": false,
+                "id": 1146987800593686529,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "favorited": false,
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "truncated": true,
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1146987800593686529",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/LFqOjavuCv"
+                        }
+                    ]
+                },
+                "geo": null,
+                "favorite_count": 28,
+                "place": null,
+                "id_str": "1146987800593686529",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "retweet_count": 24,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "Sadott23",
+                        "id": 734448780674760704,
+                        "name": "Sadotte",
+                        "id_str": "734448780674760704",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            14,
+                            27
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            28,
+                            35
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:17:19 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160435003605573632",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 10,
+            "retweeted": false,
+            "id": 1160435003605573632,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @MONG35798466: @economista33 @IESSec LOS CULPABLES \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b\ud83e\udd2b nadie lo sabe \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b\ud83e\udd2b ellos son una banda de delincuentes. Diga? \ud83e\udd37\u200d\u2642\ufe0f https://t.co/\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Sat Jul 06 23:41:48 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Thu Jun 13 17:45:15 +0000 2019",
+                    "profile_text_color": "333333",
+                    "favourites_count": 5337,
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 1139227244688285696,
+                    "profile_background_image_url": null,
+                    "followers_count": 189,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "MONG35798466",
+                    "listed_count": 1,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 43,
+                    "description": "RE BLOQUEADO",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": null,
+                    "translator_type": "none",
+                    "geo_enabled": false,
+                    "name": "ARAMIS",
+                    "statuses_count": 5999,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "1139227244688285696",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651544311050240/pu/img/-Aa7LKhaRCkhRLJ5.jpg",
+                            "video_info": {
+                                "duration_millis": 44966,
+                                "aspect_ratio": [
+                                    181,
+                                    180
+                                ],
+                                "variants": [
+                                    {
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000,
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651544311050240/pu/vid/362x360/vP4jpb_IphVfDZnP.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000,
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651544311050240/pu/vid/270x270/8V3PctBRx-sSgQDg.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000,
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651544311050240/pu/vid/724x720/bDrfe-iACnc07HJV.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651544311050240/pu/pl/_ueQLqpqaSl4XxZ8.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 724
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 724
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "small": {
+                                    "h": 676,
+                                    "resize": "fit",
+                                    "w": 680
+                                }
+                            },
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651544311050240/pu/img/-Aa7LKhaRCkhRLJ5.jpg",
+                            "type": "video",
+                            "display_url": "pic.twitter.com/oTQVPCHjVU",
+                            "expanded_url": "https://twitter.com/MONG35798466/status/1147651892215996416/video/1",
+                            "id_str": "1147651544311050240",
+                            "id": 1147651544311050240,
+                            "indices": [
+                                108,
+                                131
+                            ],
+                            "url": "https://t.co/oTQVPCHjVU"
+                        }
+                    ]
+                },
+                "in_reply_to_user_id": 198723699,
+                "retweet_count": 10,
+                "retweeted": false,
+                "id": 1147651892215996416,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "geo": null,
+                "text": "@economista33 @IESSec LOS CULPABLES \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b\ud83e\udd2b nadie lo sabe \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b\ud83e\udd2b ellos son una banda de delincuentes. Diga? \ud83e\udd37\u200d\u2642\ufe0f https://t.co/oTQVPCHjVU",
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "type": "photo",
+                            "id": 1147651544311050240,
+                            "url": "https://t.co/oTQVPCHjVU",
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651544311050240/pu/img/-Aa7LKhaRCkhRLJ5.jpg",
+                            "id_str": "1147651544311050240",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 724
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 724
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "small": {
+                                    "h": 676,
+                                    "resize": "fit",
+                                    "w": 680
+                                }
+                            },
+                            "expanded_url": "https://twitter.com/MONG35798466/status/1147651892215996416/video/1",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651544311050240/pu/img/-Aa7LKhaRCkhRLJ5.jpg",
+                            "indices": [
+                                108,
+                                131
+                            ],
+                            "display_url": "pic.twitter.com/oTQVPCHjVU"
+                        }
+                    ],
+                    "urls": []
+                },
+                "favorited": false,
+                "favorite_count": 3,
+                "place": null,
+                "id_str": "1147651892215996416",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "truncated": false,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "MONG35798466",
+                        "id": 1139227244688285696,
+                        "name": "ARAMIS",
+                        "id_str": "1139227244688285696",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            18,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            32,
+                            39
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:17:16 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "possibly_sensitive": false,
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "retweeted_status": {
+                "created_at": "Sat Jul 06 23:42:12 +0000 2019",
+                "in_reply_to_status_id": 1146984891176951810,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Thu Jun 13 17:45:15 +0000 2019",
+                    "profile_text_color": "333333",
+                    "favourites_count": 5337,
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 1139227244688285696,
+                    "profile_background_image_url": null,
+                    "followers_count": 189,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "MONG35798466",
+                    "listed_count": 1,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 43,
+                    "description": "RE BLOQUEADO",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": null,
+                    "translator_type": "none",
+                    "geo_enabled": false,
+                    "name": "ARAMIS",
+                    "statuses_count": 5999,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "1139227244688285696",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                            "video_info": {
+                                "duration_millis": 44978,
+                                "aspect_ratio": [
+                                    25,
+                                    18
+                                ],
+                                "variants": [
+                                    {
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000,
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/vid/374x270/Pv3rHX8v8bEy9ESP.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000,
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/vid/400x288/Uid0M11SlnPcG_Xx.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/pl/W18a6X2L_EYTeffT.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "medium": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "small": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                }
+                            },
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                            "type": "video",
+                            "display_url": "pic.twitter.com/YeUbxjrlVU",
+                            "expanded_url": "https://twitter.com/MONG35798466/status/1147651995337142280/video/1",
+                            "id_str": "1147651798620131328",
+                            "id": 1147651798620131328,
+                            "indices": [
+                                87,
+                                110
+                            ],
+                            "url": "https://t.co/YeUbxjrlVU"
+                        }
+                    ]
+                },
+                "in_reply_to_user_id": 198723699,
+                "retweet_count": 3,
+                "retweeted": false,
+                "id": 1147651995337142280,
+                "in_reply_to_status_id_str": "1146984891176951810",
+                "lang": "es",
+                "geo": null,
+                "text": "@economista33 @IESSec QUIEN ES EL AFECTADO QUE YA INTENTO MATAR AL BOLILLO? DIGA? \ud83e\udd37\u200d\u2642\ufe0f https://t.co/YeUbxjrlVU",
+                "in_reply_to_user_id_str": "198723699",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                14,
+                                21
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "type": "photo",
+                            "id": 1147651798620131328,
+                            "url": "https://t.co/YeUbxjrlVU",
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                            "id_str": "1147651798620131328",
+                            "sizes": {
+                                "large": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "medium": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "small": {
+                                    "h": 288,
+                                    "resize": "fit",
+                                    "w": 400
+                                }
+                            },
+                            "expanded_url": "https://twitter.com/MONG35798466/status/1147651995337142280/video/1",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                            "indices": [
+                                87,
+                                110
+                            ],
+                            "display_url": "pic.twitter.com/YeUbxjrlVU"
+                        }
+                    ],
+                    "urls": []
+                },
+                "favorited": false,
+                "favorite_count": 3,
+                "place": null,
+                "id_str": "1147651995337142280",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "truncated": false,
+                "in_reply_to_screen_name": "economista33"
+            },
+            "coordinates": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "source_user": {
+                                "follow_request_sent": false,
+                                "created_at": "Thu Jun 13 17:45:15 +0000 2019",
+                                "profile_text_color": "333333",
+                                "favourites_count": 5337,
+                                "url": null,
+                                "contributors_enabled": false,
+                                "profile_background_color": "F5F8FA",
+                                "profile_sidebar_fill_color": "DDEEF6",
+                                "utc_offset": null,
+                                "profile_use_background_image": true,
+                                "following": false,
+                                "verified": false,
+                                "default_profile": true,
+                                "id": 1139227244688285696,
+                                "profile_background_image_url": null,
+                                "followers_count": 189,
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    }
+                                },
+                                "screen_name": "MONG35798466",
+                                "listed_count": 1,
+                                "default_profile_image": false,
+                                "is_translator": false,
+                                "friends_count": 43,
+                                "description": "RE BLOQUEADO",
+                                "profile_image_url": "http://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                                "is_translation_enabled": false,
+                                "notifications": false,
+                                "profile_link_color": "1DA1F2",
+                                "profile_background_image_url_https": null,
+                                "translator_type": "none",
+                                "geo_enabled": false,
+                                "name": "ARAMIS",
+                                "statuses_count": 5999,
+                                "location": "",
+                                "protected": false,
+                                "profile_sidebar_border_color": "C0DEED",
+                                "id_str": "1139227244688285696",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139227421847240705/PlXhDkzh_normal.jpg",
+                                "lang": null,
+                                "profile_background_tile": false,
+                                "has_extended_profile": false,
+                                "time_zone": null
+                            }
+                        },
+                        "source_user_id_str": "1139227244688285696",
+                        "video_info": {
+                            "duration_millis": 44978,
+                            "aspect_ratio": [
+                                25,
+                                18
+                            ],
+                            "variants": [
+                                {
+                                    "content_type": "video/mp4",
+                                    "bitrate": 256000,
+                                    "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/vid/374x270/Pv3rHX8v8bEy9ESP.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000,
+                                    "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/vid/400x288/Uid0M11SlnPcG_Xx.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1147651798620131328/pu/pl/W18a6X2L_EYTeffT.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "medium": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            },
+                            "small": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            }
+                        },
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                        "url": "https://t.co/YeUbxjrlVU",
+                        "type": "video",
+                        "display_url": "pic.twitter.com/YeUbxjrlVU",
+                        "expanded_url": "https://twitter.com/MONG35798466/status/1147651995337142280/video/1",
+                        "source_status_id": 1147651995337142280,
+                        "id_str": "1147651798620131328",
+                        "id": 1147651798620131328,
+                        "source_user_id": 1139227244688285696,
+                        "indices": [
+                            105,
+                            128
+                        ],
+                        "source_status_id_str": "1147651995337142280"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": null,
+            "retweet_count": 3,
+            "retweeted": false,
+            "id": 1160434990448021504,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "geo": null,
+            "text": "RT @MONG35798466: @economista33 @IESSec QUIEN ES EL AFECTADO QUE YA INTENTO MATAR AL BOLILLO? DIGA? \ud83e\udd37\u200d\u2642\ufe0f https://t.co/YeUbxjrlVU",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "MONG35798466",
+                        "id": 1139227244688285696,
+                        "name": "ARAMIS",
+                        "id_str": "1139227244688285696",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            18,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            32,
+                            39
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "type": "photo",
+                        "source_user_id_str": "1139227244688285696",
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "medium": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            },
+                            "small": {
+                                "h": 288,
+                                "resize": "fit",
+                                "w": 400
+                            }
+                        },
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147651798620131328/pu/img/EwyZADQOZDcHDDoJ.jpg",
+                        "url": "https://t.co/YeUbxjrlVU",
+                        "display_url": "pic.twitter.com/YeUbxjrlVU",
+                        "id": 1147651798620131328,
+                        "source_status_id": 1147651995337142280,
+                        "id_str": "1147651798620131328",
+                        "expanded_url": "https://twitter.com/MONG35798466/status/1147651995337142280/video/1",
+                        "source_user_id": 1139227244688285696,
+                        "indices": [
+                            105,
+                            128
+                        ],
+                        "source_status_id_str": "1147651995337142280"
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "favorite_count": 0,
+            "place": null,
+            "id_str": "1160434990448021504",
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:16:01 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160434677834035200",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Fri Mar 29 23:27:03 +0000 2019",
+                "profile_text_color": "333333",
+                "favourites_count": 13795,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 1111771781231190016,
+                "profile_background_image_url": null,
+                "followers_count": 138,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "jorgeco83009719",
+                "listed_count": 0,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 570,
+                "description": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "translator_type": "none",
+                "geo_enabled": false,
+                "name": "jorge cortez",
+                "statuses_count": 7379,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "1111771781231190016",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111772252415160320/Zux6ypOR_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 888,
+            "retweeted": false,
+            "id": 1160434677834035200,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @economista33: Hoy en la noche, atentado al doctor Dr. \u00c1lex Vivas m\u00e9dico del HTMC despu\u00e9s de que denunci\u00f3 actos de corrupci\u00f3n en ese hos\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 03:31:22 +0000 2019",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Tue Oct 05 02:14:10 +0000 2010",
+                    "profile_text_color": "333333",
+                    "translator_type": "none",
+                    "url": "https://t.co/2ZRIOur3IZ",
+                    "contributors_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 198723699,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "followers_count": 25175,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "jrodrigueztorres.blogspot.com",
+                                    "expanded_url": "http://jrodrigueztorres.blogspot.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/2ZRIOur3IZ"
+                                }
+                            ]
+                        }
+                    },
+                    "screen_name": "economista33",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/198723699/1565477004",
+                    "listed_count": 87,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 3491,
+                    "description": "Ex Presidente de la Federacion de Economistas del Ecuador; Ateo y post Keynesiano, ex Coordinador Nacional de la @CNACEcuador, Libre y de Buenas Costumbres:.",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/448961528273043458/gvQtB957_normal.jpeg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "favourites_count": 19050,
+                    "geo_enabled": true,
+                    "name": "Jorge Rodriguez T \u00a9",
+                    "statuses_count": 25370,
+                    "location": "Ecuador",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "198723699",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/448961528273043458/gvQtB957_normal.jpeg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 888,
+                "retweeted": false,
+                "id": 1146984891176951810,
+                "in_reply_to_status_id_str": null,
+                "lang": "es",
+                "geo": null,
+                "text": "Hoy en la noche, atentado al doctor Dr. \u00c1lex Vivas m\u00e9dico del HTMC despu\u00e9s de que denunci\u00f3 actos de corrupci\u00f3n en e\u2026 https://t.co/4o4Cjyhbcd",
+                "in_reply_to_user_id_str": null,
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1146984891176951810",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/4o4Cjyhbcd"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 682,
+                "place": {
+                    "contained_within": [],
+                    "id": "0177bc687a9ac697",
+                    "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -78.948465999276,
+                                    -0.588618000469648
+                                ],
+                                [
+                                    -78.1648970044175,
+                                    -0.588618000469648
+                                ],
+                                [
+                                    -78.1648970044175,
+                                    0.255476999458879
+                                ],
+                                [
+                                    -78.948465999276,
+                                    0.255476999458879
+                                ]
+                            ]
+                        ]
+                    },
+                    "place_type": "city",
+                    "country": "Ecuador",
+                    "attributes": {},
+                    "name": "Quito",
+                    "full_name": "Quito, Ecuador",
+                    "country_code": "EC"
+                },
+                "id_str": "1146984891176951810",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:10:04 +0000 2019",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "id_str": "1160433178190000128",
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Sat Nov 05 20:11:34 +0000 2016",
+                "profile_text_color": "333333",
+                "translator_type": "none",
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 794995593135476736,
+                "profile_background_image_url": null,
+                "followers_count": 1097,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "piedad3103",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/794995593135476736/1565144589",
+                "listed_count": 4,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 1893,
+                "description": "El amor verdadero es la \u00fanica riqueza q no se compra ni se vende, se regala a qui\u00e9n lo merece y se quita a qui\u00e9n no lo valora\ud83d\ude0a \nTks ! sensei \ud83d\udc491000\ud83d\udc48",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1155684895563366405/1uq_YeA7_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "favourites_count": 33289,
+                "geo_enabled": false,
+                "name": "Pi \u2661 \ud83d\ude0a\ud83d\udc9b",
+                "statuses_count": 35746,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "794995593135476736",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155684895563366405/1uq_YeA7_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": true,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 1,
+            "retweeted": false,
+            "id": 1160433178190000128,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorited": false,
+            "text": "RT @elconsiglieri1: @DefensaIESS @IESSec @LuisJairalaZ @PaulGranda @Pauli8g @piedad3103 @Collaguazon @SCC1705 @viviecuador @OlmedoVive @Tat\u2026",
+            "in_reply_to_user_id_str": null,
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "retweeted_status": {
+                "created_at": "Sun Aug 11 06:04:29 +0000 2019",
+                "in_reply_to_status_id": 1159670026410057728,
+                "contributors": null,
+                "possibly_sensitive": false,
+                "user": {
+                    "follow_request_sent": false,
+                    "created_at": "Thu Oct 12 22:14:51 +0000 2017",
+                    "profile_text_color": "333333",
+                    "translator_type": "none",
+                    "url": null,
+                    "contributors_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "utc_offset": null,
+                    "profile_use_background_image": true,
+                    "following": false,
+                    "verified": false,
+                    "default_profile": true,
+                    "id": 918600881435791360,
+                    "profile_background_image_url": null,
+                    "followers_count": 1096,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "screen_name": "elconsiglieri1",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918600881435791360/1533184492",
+                    "listed_count": 1,
+                    "default_profile_image": false,
+                    "is_translator": false,
+                    "friends_count": 2110,
+                    "description": "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you are a man, you take it. Malcolm X\n\nZurdos, los veo de frente.",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/918602715688824832/zvi3mjRD_normal.jpg",
+                    "is_translation_enabled": false,
+                    "notifications": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_image_url_https": null,
+                    "favourites_count": 9892,
+                    "geo_enabled": false,
+                    "name": "Tom Hagen",
+                    "statuses_count": 15595,
+                    "location": "",
+                    "protected": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "id_str": "918600881435791360",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918602715688824832/zvi3mjRD_normal.jpg",
+                    "lang": null,
+                    "profile_background_tile": false,
+                    "has_extended_profile": false,
+                    "time_zone": null
+                },
+                "coordinates": null,
+                "in_reply_to_user_id": 84778025,
+                "retweet_count": 1,
+                "retweeted": false,
+                "id": 1160431776621387776,
+                "in_reply_to_status_id_str": "1159670026410057728",
+                "lang": "es",
+                "geo": null,
+                "text": "@DefensaIESS @IESSec @LuisJairalaZ @PaulGranda @Pauli8g @piedad3103 @Collaguazon @SCC1705 @viviecuador @OlmedoVive\u2026 https://t.co/yxves5Au4k",
+                "in_reply_to_user_id_str": "84778025",
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "DefensaIESS",
+                            "id": 84778025,
+                            "name": "Defensa IESS",
+                            "id_str": "84778025",
+                            "indices": [
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "screen_name": "IESSec",
+                            "id": 556152909,
+                            "name": "IESS",
+                            "id_str": "556152909",
+                            "indices": [
+                                13,
+                                20
+                            ]
+                        },
+                        {
+                            "screen_name": "LuisJairalaZ",
+                            "id": 4919587209,
+                            "name": "Luis Jairala Zunino",
+                            "id_str": "4919587209",
+                            "indices": [
+                                21,
+                                34
+                            ]
+                        },
+                        {
+                            "screen_name": "PaulGranda",
+                            "id": 223900991,
+                            "name": "Pa\u00fal Granda",
+                            "id_str": "223900991",
+                            "indices": [
+                                35,
+                                46
+                            ]
+                        },
+                        {
+                            "screen_name": "Pauli8g",
+                            "id": 1577637078,
+                            "name": "Pauli",
+                            "id_str": "1577637078",
+                            "indices": [
+                                47,
+                                55
+                            ]
+                        },
+                        {
+                            "screen_name": "piedad3103",
+                            "id": 794995593135476736,
+                            "name": "Pi \u2661 \ud83d\ude0a\ud83d\udc9b",
+                            "id_str": "794995593135476736",
+                            "indices": [
+                                56,
+                                67
+                            ]
+                        },
+                        {
+                            "screen_name": "Collaguazon",
+                            "id": 775543178522980356,
+                            "name": "Candidato corrupto",
+                            "id_str": "775543178522980356",
+                            "indices": [
+                                68,
+                                80
+                            ]
+                        },
+                        {
+                            "screen_name": "SCC1705",
+                            "id": 707221745309188098,
+                            "name": "Santiago Cuesta C",
+                            "id_str": "707221745309188098",
+                            "indices": [
+                                81,
+                                89
+                            ]
+                        },
+                        {
+                            "screen_name": "viviecuador",
+                            "id": 2293822722,
+                            "name": "viviecuador",
+                            "id_str": "2293822722",
+                            "indices": [
+                                90,
+                                102
+                            ]
+                        },
+                        {
+                            "screen_name": "OlmedoVive",
+                            "id": 953659507,
+                            "name": "OLMEDO VIVE",
+                            "id_str": "953659507",
+                            "indices": [
+                                103,
+                                114
+                            ]
+                        }
+                    ],
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1160431776621387776",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/yxves5Au4k"
+                        }
+                    ]
+                },
+                "favorited": false,
+                "favorite_count": 2,
+                "place": null,
+                "id_str": "1160431776621387776",
+                "is_quote_status": false,
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "truncated": true,
+                "in_reply_to_screen_name": "DefensaIESS"
+            },
+            "geo": null,
+            "favorite_count": 0,
+            "place": null,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "elconsiglieri1",
+                        "id": 918600881435791360,
+                        "name": "Tom Hagen",
+                        "id_str": "918600881435791360",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "DefensaIESS",
+                        "id": 84778025,
+                        "name": "Defensa IESS",
+                        "id_str": "84778025",
+                        "indices": [
+                            20,
+                            32
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            33,
+                            40
+                        ]
+                    },
+                    {
+                        "screen_name": "LuisJairalaZ",
+                        "id": 4919587209,
+                        "name": "Luis Jairala Zunino",
+                        "id_str": "4919587209",
+                        "indices": [
+                            41,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "PaulGranda",
+                        "id": 223900991,
+                        "name": "Pa\u00fal Granda",
+                        "id_str": "223900991",
+                        "indices": [
+                            55,
+                            66
+                        ]
+                    },
+                    {
+                        "screen_name": "Pauli8g",
+                        "id": 1577637078,
+                        "name": "Pauli",
+                        "id_str": "1577637078",
+                        "indices": [
+                            67,
+                            75
+                        ]
+                    },
+                    {
+                        "screen_name": "piedad3103",
+                        "id": 794995593135476736,
+                        "name": "Pi \u2661 \ud83d\ude0a\ud83d\udc9b",
+                        "id_str": "794995593135476736",
+                        "indices": [
+                            76,
+                            87
+                        ]
+                    },
+                    {
+                        "screen_name": "Collaguazon",
+                        "id": 775543178522980356,
+                        "name": "Candidato corrupto",
+                        "id_str": "775543178522980356",
+                        "indices": [
+                            88,
+                            100
+                        ]
+                    },
+                    {
+                        "screen_name": "SCC1705",
+                        "id": 707221745309188098,
+                        "name": "Santiago Cuesta C",
+                        "id_str": "707221745309188098",
+                        "indices": [
+                            101,
+                            109
+                        ]
+                    },
+                    {
+                        "screen_name": "viviecuador",
+                        "id": 2293822722,
+                        "name": "viviecuador",
+                        "id_str": "2293822722",
+                        "indices": [
+                            110,
+                            122
+                        ]
+                    },
+                    {
+                        "screen_name": "OlmedoVive",
+                        "id": 953659507,
+                        "name": "OLMEDO VIVE",
+                        "id_str": "953659507",
+                        "indices": [
+                            123,
+                            134
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": []
+            },
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_screen_name": null
+        },
+        {
+            "created_at": "Sun Aug 11 06:04:29 +0000 2019",
+            "in_reply_to_status_id": 1159670026410057728,
+            "contributors": null,
+            "possibly_sensitive": false,
+            "user": {
+                "follow_request_sent": false,
+                "created_at": "Thu Oct 12 22:14:51 +0000 2017",
+                "profile_text_color": "333333",
+                "translator_type": "none",
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "utc_offset": null,
+                "profile_use_background_image": true,
+                "following": false,
+                "verified": false,
+                "default_profile": true,
+                "id": 918600881435791360,
+                "profile_background_image_url": null,
+                "followers_count": 1096,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "screen_name": "elconsiglieri1",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/918600881435791360/1533184492",
+                "listed_count": 1,
+                "default_profile_image": false,
+                "is_translator": false,
+                "friends_count": 2110,
+                "description": "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you are a man, you take it. Malcolm X\n\nZurdos, los veo de frente.",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/918602715688824832/zvi3mjRD_normal.jpg",
+                "is_translation_enabled": false,
+                "notifications": false,
+                "profile_link_color": "1DA1F2",
+                "profile_background_image_url_https": null,
+                "favourites_count": 9892,
+                "geo_enabled": false,
+                "name": "Tom Hagen",
+                "statuses_count": 15595,
+                "location": "",
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "id_str": "918600881435791360",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/918602715688824832/zvi3mjRD_normal.jpg",
+                "lang": null,
+                "profile_background_tile": false,
+                "has_extended_profile": false,
+                "time_zone": null
+            },
+            "coordinates": null,
+            "in_reply_to_user_id": 84778025,
+            "retweet_count": 1,
+            "retweeted": false,
+            "id": 1160431776621387776,
+            "in_reply_to_status_id_str": "1159670026410057728",
+            "lang": "es",
+            "geo": null,
+            "text": "@DefensaIESS @IESSec @LuisJairalaZ @PaulGranda @Pauli8g @piedad3103 @Collaguazon @SCC1705 @viviecuador @OlmedoVive\u2026 https://t.co/yxves5Au4k",
+            "in_reply_to_user_id_str": "84778025",
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "DefensaIESS",
+                        "id": 84778025,
+                        "name": "Defensa IESS",
+                        "id_str": "84778025",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "IESSec",
+                        "id": 556152909,
+                        "name": "IESS",
+                        "id_str": "556152909",
+                        "indices": [
+                            13,
+                            20
+                        ]
+                    },
+                    {
+                        "screen_name": "LuisJairalaZ",
+                        "id": 4919587209,
+                        "name": "Luis Jairala Zunino",
+                        "id_str": "4919587209",
+                        "indices": [
+                            21,
+                            34
+                        ]
+                    },
+                    {
+                        "screen_name": "PaulGranda",
+                        "id": 223900991,
+                        "name": "Pa\u00fal Granda",
+                        "id_str": "223900991",
+                        "indices": [
+                            35,
+                            46
+                        ]
+                    },
+                    {
+                        "screen_name": "Pauli8g",
+                        "id": 1577637078,
+                        "name": "Pauli",
+                        "id_str": "1577637078",
+                        "indices": [
+                            47,
+                            55
+                        ]
+                    },
+                    {
+                        "screen_name": "piedad3103",
+                        "id": 794995593135476736,
+                        "name": "Pi \u2661 \ud83d\ude0a\ud83d\udc9b",
+                        "id_str": "794995593135476736",
+                        "indices": [
+                            56,
+                            67
+                        ]
+                    },
+                    {
+                        "screen_name": "Collaguazon",
+                        "id": 775543178522980356,
+                        "name": "Candidato corrupto",
+                        "id_str": "775543178522980356",
+                        "indices": [
+                            68,
+                            80
+                        ]
+                    },
+                    {
+                        "screen_name": "SCC1705",
+                        "id": 707221745309188098,
+                        "name": "Santiago Cuesta C",
+                        "id_str": "707221745309188098",
+                        "indices": [
+                            81,
+                            89
+                        ]
+                    },
+                    {
+                        "screen_name": "viviecuador",
+                        "id": 2293822722,
+                        "name": "viviecuador",
+                        "id_str": "2293822722",
+                        "indices": [
+                            90,
+                            102
+                        ]
+                    },
+                    {
+                        "screen_name": "OlmedoVive",
+                        "id": 953659507,
+                        "name": "OLMEDO VIVE",
+                        "id_str": "953659507",
+                        "indices": [
+                            103,
+                            114
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1160431776621387776",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "url": "https://t.co/yxves5Au4k"
+                    }
+                ]
+            },
+            "favorited": false,
+            "favorite_count": 2,
+            "place": null,
+            "id_str": "1160431776621387776",
+            "is_quote_status": false,
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "truncated": true,
+            "in_reply_to_screen_name": "DefensaIESS"
+        }
+    ]
+}

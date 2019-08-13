@@ -12,6 +12,7 @@ def cargarInfoArchivo(cuenta):
 
     contador = 1
     for tweet in datos_json["tweets"]:
+<<<<<<< HEAD
         usuario = "@" + str(tweet["entities"]["user_mentions"][0]["screen_name"])
         nombre = str(tweet["entities"]["user_mentions"][0]["name"])
         l_hashtags = tweet["entities"]["hashtags"] #lista de diccionarios
@@ -35,3 +36,29 @@ cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
 for cuenta in cuentas:
     print("*"*50,cuenta,"*"*50)
     cargarInfoArchivo(cuenta)
+=======
+        if len(tweet["entities"]["user_mentions"]) !=0:
+            usuario = "@" + str(tweet["entities"]["user_mentions"][0]["screen_name"])
+            nombre = str(tweet["entities"]["user_mentions"][0]["name"])
+            l_hashtags = tweet["entities"]["hashtags"] #lista de diccionarios
+            hashtags = []
+            for elemento in l_hashtags:
+                hashtags.append(elemento["text"])
+
+            print(str(contador)+". Usuario:",nombre,"(",usuario,")")
+            print("\tFecha:",tweet["created_at"])
+            print("\tMensaje:",end="")
+            if ("retweeted_status" in tweet):
+                print(tweet["retweeted_status"]["text"])
+            else:
+                print(tweet["text"])
+            print("\tHahtags:",hashtags)
+            contador+=1
+            print()
+
+
+cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
+cuenta = cuentas[0]
+print("*"*50,cuenta,"*"*50)
+cargarInfoArchivo(cuenta)
+>>>>>>> 3c37861da5307fc46b3600ac6bb51990ed4579c9

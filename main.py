@@ -33,6 +33,7 @@ def cargarInfoArchivo(cuenta):
 
 
 cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
-cuenta = cuentas[0]
-print("*"*50,cuenta,"*"*50)
-cargarInfoArchivo(cuenta)
+for cuenta in cuentas:
+    print("*"*50,cuenta,"*"*50)
+    cargarInfoArchivo(cuenta)
+    print()

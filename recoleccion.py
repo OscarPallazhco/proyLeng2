@@ -20,30 +20,36 @@ def recolectarDatosTwitter(cuenta):
     ids = []
     fileName = "datos_"+cuenta[1:]+".json"
 
-    print("Datos del archivo: ")
+    contador = 0
     if path.exists(fileName):
         f = open(fileName)
         datos_json = json.load(f)
         f.close()
         for tweet in datos_json["tweets"]:
-            print("id:",tweet["id"])
+            contador+=1
+            #print("id:",tweet["id"])
             principal["tweets"].append(tweet)
             ids.append(tweet["id"])
+    print("Datos del archivo: ",contador,"tweets")
     print()
 
-    print("Datos nuevos, obtenidos de twitter:")
+    contador = 0
     for tweet in twits:
         d = json.dumps(tweet._json)
         diccionario = json.loads(d)
         id = diccionario["id"]
         if id not in ids:
-            print("id:",diccionario["id"])
+            contador+=1
+            #print("id:",diccionario["id"])
             principal["tweets"].append(diccionario)
-
+    print("Datos nuevos, obtenidos de twitter:",contador)
     #Crear/actualizar archivo json
     with open(fileName, 'w') as file:
         json.dump(principal, file, indent=4)
 
 
 cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
-recolectarDatosTwitter(cuentas[2])
+for cuenta in cuentas:
+    print("*" * 50, cuenta, "*" * 50)
+    recolectarDatosTwitter(cuenta)
+    print()

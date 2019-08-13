@@ -18,20 +18,20 @@ def cargarInfoArchivo(cuenta):
         hashtags = []
         for elemento in l_hashtags:
             hashtags.append(elemento["text"])
-
+        if ("retweeted_status" in tweet):
+            mensaje = tweet["retweeted_status"]["text"]
+        else:
+            mensaje =tweet["text"]
         print(str(contador)+". Usuario:",nombre,"(",usuario,")")
         print("\tFecha:",tweet["created_at"])
-        print("\tMensaje:",end="")
-        if ("retweeted_status" in tweet):
-            print(tweet["retweeted_status"]["text"])
-        else:
-            print(tweet["text"])
+        print("\tMensaje:", mensaje)
         print("\tHahtags:",hashtags)
         contador+=1
         print()
 
 
 cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
-cuenta = cuentas[2]
-print("*"*50,cuenta,"*"*50)
-cargarInfoArchivo(cuenta)
+
+for cuenta in cuentas:
+    print("*"*50,cuenta,"*"*50)
+    cargarInfoArchivo(cuenta)

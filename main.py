@@ -25,7 +25,7 @@ def cargarInfoArchivo(cuenta):
             if ("retweeted_status" in tweet):
                 mensaje = tweet["retweeted_status"]["text"]
 
-            if usuario != "@IESSec":        #No imprimir los tweets hechos por la misma cuenta
+            if usuario != "@IESSec" and usuario != "@SRIoficialEc" and usuario != "@CPCCS":        #No imprimir los tweets hechos por la misma cuenta
                 print(str(contador) + ". Usuario:", nombre, "(", usuario, ")")
                 print("\tid:", id)
                 print("\tFecha:", fecha)

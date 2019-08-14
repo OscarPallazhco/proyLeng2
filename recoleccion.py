@@ -13,7 +13,7 @@ def recolectarDatosTwitter(cuenta):
     api = tweepy.API(auth)
 
     #Realizar la búsqueda
-    twits = api.search(cuenta)
+    twits = api.search(cuenta,count = 100)
 
     principal = {}
     principal["tweets"] = []
@@ -27,7 +27,6 @@ def recolectarDatosTwitter(cuenta):
         f.close()
         for tweet in datos_json["tweets"]:
             contador+=1
-            #print("id:",tweet["id"])
             principal["tweets"].append(tweet)
             ids.append(tweet["id"])
     print("Datos del archivo: ",contador,"tweets")
@@ -40,7 +39,6 @@ def recolectarDatosTwitter(cuenta):
         id = diccionario["id"]
         if id not in ids:
             contador+=1
-            #print("id:",diccionario["id"])
             principal["tweets"].append(diccionario)
     print("Datos nuevos, obtenidos de twitter:",contador)
     #Crear/actualizar archivo json

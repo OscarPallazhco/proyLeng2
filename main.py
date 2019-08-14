@@ -15,21 +15,24 @@ def cargarInfoArchivo(cuenta):
         if len(tweet["entities"]["user_mentions"]) !=0:
             usuario = "@" + str(tweet["entities"]["user_mentions"][0]["screen_name"])
             nombre = str(tweet["entities"]["user_mentions"][0]["name"])
+            id = tweet["id"]
+            fecha = tweet["created_at"]
             l_hashtags = tweet["entities"]["hashtags"] #lista de diccionarios
             hashtags = []
             for elemento in l_hashtags:
                 hashtags.append(elemento["text"])
-
-            print(str(contador)+". Usuario:",nombre,"(",usuario,")")
-            print("\tFecha:",tweet["created_at"])
-            print("\tMensaje:",end="")
+            mensaje = tweet["text"]
             if ("retweeted_status" in tweet):
-                print(tweet["retweeted_status"]["text"])
-            else:
-                print(tweet["text"])
-            print("\tHahtags:",hashtags)
-            contador+=1
-            print()
+                mensaje = tweet["retweeted_status"]["text"]
+
+            if usuario != "@IESSec":        #No imprimir los tweets hechos por la misma cuenta
+                print(str(contador) + ". Usuario:", nombre, "(", usuario, ")")
+                print("\tid:", id)
+                print("\tFecha:", fecha)
+                print("\tMensaje:", mensaje)
+                print("\tHahtags:", hashtags)
+                contador += 1
+                print()
 
 
 cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]

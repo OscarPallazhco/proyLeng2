@@ -1,0 +1,5 @@
+1.	¿Cuáles son las regiones en las cuales se dan la mayor cantidad de tweets, tanto positivos como negativos?
+
+2.	¿Existe una relación entre la satisfacción de los usuarios con respecto a los días de la semana?
+
+3.	¿Cuáles son los reclamos más frecuentes que reflejan los usuarios de los servicios gubernamentales?

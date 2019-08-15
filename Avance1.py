@@ -31,7 +31,7 @@ def recolectarDatosTwitter(cuenta):
             if ("retweeted_status" in diccionario):
                 mensaje = diccionario["retweeted_status"]["text"]
 
-            if usuario != "@IESSec" and usuario != "@SRIoficialEc" and usuario != "@CPCCS":  # No imprimir los tweets hechos por la misma cuenta
+            if usuario != cuenta:  # No imprimir los tweets hechos por la misma cuenta
                 print(str(contador) + ". Usuario:", nombre, "(", usuario, ")")
                 print("\tid:", id)
                 print("\tFecha:", fecha)
@@ -41,7 +41,7 @@ def recolectarDatosTwitter(cuenta):
                 print()
 
 
-cuentas = ["@IESSec","@SRIoficialEc","@CPCCS"]
+cuentas = ["@IESSec","@SRIoficialEc","@CPCCS", "@Correos_Ecuador"]
 for cuenta in cuentas:
     print("*" * 50, cuenta, "*" * 50)
     recolectarDatosTwitter(cuenta)

@@ -1,5 +1,5 @@
-1.	¿Cuáles son las regiones en las cuales se dan la mayor cantidad de tweets, tanto positivos como negativos?
+1.	Distinguir las regiones en las cuales se producen los  tweets y si es un tweet positivo o negativo para categorizar las regiones que están a favor o en contra de los servicios gubernamentales.
 
-2.	¿Existe una relación entre la satisfacción de los usuarios con respecto a los días de la semana?
+2.	Analizar la fecha del tweet para concluir si existe una relación entre la satisfacción de los usuarios con respecto al día de la semana en el que se realizó el tweet.
 
-3.	¿Cuáles son los reclamos más frecuentes que reflejan los usuarios de los servicios gubernamentales?
+3.	Ilustrar cuáles son los reclamos más frecuentes que reflejan los usuarios de los servicios gubernamentales.
